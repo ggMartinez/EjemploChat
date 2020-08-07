@@ -1,0 +1,10 @@
+C:\Users\Gonzalo\source\repos\Chat\CapDeDatos\bin\Debug\CapDeDatos.dll
+C:\Users\Gonzalo\source\repos\Chat\CapDeDatos\bin\Debug\CapDeDatos.pdb
+C:\Users\Gonzalo\source\repos\Chat\CapDeDatos\bin\Debug\CapDeDatos.xml
+C:\Users\Gonzalo\source\repos\Chat\CapDeDatos\obj\Debug\CapDeDatos.vbprojAssemblyReference.cache
+C:\Users\Gonzalo\source\repos\Chat\CapDeDatos\obj\Debug\CapDeDatos.Resources.resources
+C:\Users\Gonzalo\source\repos\Chat\CapDeDatos\obj\Debug\CapDeDatos.vbproj.GenerateResource.cache
+C:\Users\Gonzalo\source\repos\Chat\CapDeDatos\obj\Debug\CapDeDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\source\repos\Chat\CapDeDatos\obj\Debug\CapDeDatos.dll
+C:\Users\Gonzalo\source\repos\Chat\CapDeDatos\obj\Debug\CapDeDatos.xml
+C:\Users\Gonzalo\source\repos\Chat\CapDeDatos\obj\Debug\CapDeDatos.pdb

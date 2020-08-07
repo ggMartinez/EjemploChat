@@ -1,0 +1,14 @@
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\bin\Debug\CapaLogica.xml
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\bin\Debug\CapDeDatos.dll
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\bin\Debug\CapDeDatos.pdb
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\bin\Debug\CapDeDatos.xml
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\obj\Debug\CapaLogica.vbprojAssemblyReference.cache
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\obj\Debug\CapaLogica.Resources.resources
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\obj\Debug\CapaLogica.vbproj.GenerateResource.cache
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\obj\Debug\CapaLogica.vbproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\obj\Debug\CapaLogica.vbproj.CopyComplete
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\obj\Debug\CapaLogica.xml
+C:\Users\Gonzalo\source\repos\Chat\CapaLogica\obj\Debug\CapaLogica.pdb
